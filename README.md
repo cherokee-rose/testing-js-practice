@@ -1,2 +1,2 @@
-# testing-js-practice
-Testing JS code with Jest framework.
+# Testing JS with Jest
+
